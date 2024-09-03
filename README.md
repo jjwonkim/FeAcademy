@@ -19,6 +19,8 @@
 1. 타입스크립트를 위한 환경 설정
 
 - 타입스크립트로 마이그레이션 진행하기전 환경 설정을 진행
+  . npm i -g parcel
+  . parcel index.html
 - tsconfig.json 파일을 생성
 
 2. 변수에 타입 작성하기
